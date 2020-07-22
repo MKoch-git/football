@@ -1,4 +1,4 @@
-# 2. Fix Docker
+# 2. Fix und Feature Docker file
 # Hotfix eingefügt #
 
 ARG DOCKER_BASE
